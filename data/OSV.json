@@ -1,0 +1,1992 @@
+﻿{
+    "OSV": [
+        {
+            "osv": "76",
+            "name": "Colegiul National ”Roman Voda” - corp A",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 3",
+            "street": "Bulevardul Roman Musat",
+            "nr": "nr. -  bl. 15, bl. 16#"
+        },
+        {
+            "osv": "76",
+            "name": "Colegiul National ”Roman Voda” - corp A",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 4",
+            "street": "Bulevardul Roman Musat ",
+            "nr": "nr. -  bl. 3#"
+        },
+        {
+            "osv": "76",
+            "name": "Colegiul National ”Roman Voda” - corp A",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 5",
+            "street": "Bulevardul Roman Musat ",
+            "nr": "nr. -  bl. 31, bl. 33, bl. 38#"
+        },
+        {
+            "osv": "76",
+            "name": "Colegiul National ”Roman Voda” - corp A",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 6",
+            "street": "Strada Unirii",
+            "nr": "toate numerele din intervalul nr. 1 -19# nr. -  bl. 2#"
+        },
+        {
+            "osv": "77",
+            "name": "Gradinita de copii nr. 2 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Constantin Dobrogeanu Gherea , Nr. 44",
+            "street": "Fundatura Constantin Dobrogeanu Gherea",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "77",
+            "name": "Gradinita de copii nr. 2 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Constantin Dobrogeanu Gherea , Nr. 45",
+            "street": "Strada Constantin Dobrogeanu Gherea",
+            "nr": "numere impare nr. 33 -41# numere pare nr. 22 -30# nr. -  bl. 26, bl. 28, bl. 30, bl. 26A, bl. 28A, bl. 28B#"
+        },
+        {
+            "osv": "77",
+            "name": "Gradinita de copii nr. 2 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Constantin Dobrogeanu Gherea , Nr. 46",
+            "street": "Strada Dumbrava Rosie",
+            "nr": "numere impare nr. 31 -57#"
+        },
+        {
+            "osv": "77",
+            "name": "Gradinita de copii nr. 2 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Constantin Dobrogeanu Gherea , Nr. 47",
+            "street": "Bulevardul Roman Musat ",
+            "nr": "nr. -  bl. 2, bl. 4, bl. 5, bl. 6, bl. 8, bl. 10#"
+        },
+        {
+            "osv": "77",
+            "name": "Gradinita de copii nr. 2 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Constantin Dobrogeanu Gherea , Nr. 48",
+            "street": "Bulevardul Roman Musat ",
+            "nr": "nr. -  bl. 35, bl. 40, bl. 42, bl. 44, bl. 48, bl. 50, bl. 52#"
+        },
+        {
+            "osv": "77",
+            "name": "Gradinita de copii nr. 2 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Constantin Dobrogeanu Gherea , Nr. 49",
+            "street": "Strada Tineretului",
+            "nr": "numere impare nr. 13 -99# numere pare nr. 24 -100# nr. -  bl. 13, bl. 15, bl. 19#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 4",
+            "street": "Bulevardul Roman Musat ",
+            "nr": "toate numerele din intervalul nr. 1 -100# nr. -  bl. 12, bl. 14, bl. 16, bl. 20, bl. 22#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 5",
+            "street": "Strada 22 Decembrie ",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 6",
+            "street": "Strada 22 Decembrie",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 7",
+            "street": "Strada Anton Pann",
+            "nr": "nr. -  bl. 23, bl. 25, bl. 27, bl. 29, bl. 31, bl. 33, bl. 35, bl. 37#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 8",
+            "street": "Strada Aviatorilor",
+            "nr": "toate numerele din intervalul nr. 0 -99#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 9",
+            "street": "Strada Dr. Koch",
+            "nr": "integral#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 10",
+            "street": "Strada Eroilor",
+            "nr": "toate numerele din intervalul nr. 1 -99#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 11",
+            "street": "Strada Eternitatii ",
+            "nr": "toate numerele din intervalul nr. 1 -99#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 12",
+            "street": "Strada 1 Decembrie 1918 ",
+            "nr": "toate numerele din intervalul nr. 1 -50# nr. -  bl. 12, bl. 14, bl. 16, bl. 20, bl. 22#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 13",
+            "street": "Strada Martir Horia",
+            "nr": "toate numerele din intervalul nr. 1 -99#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 14",
+            "street": "Strada Mihai Viteazu",
+            "nr": "nr. -  bl. 5, bl. 7# nr. 3-5#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 15",
+            "street": "Strada Parcului",
+            "nr": "toate numerele din intervalul nr. 1 -99#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 16",
+            "street": "Bulevardul Roman Musat",
+            "nr": "numere impare nr. 47 -99# numere pare nr. 54 -100# nr. -  bl. 66, bl. 68, bl. 70, bl. 74, bl. 76#"
+        },
+        {
+            "osv": "78",
+            "name": "Gradinita de copii nr. 6 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Roman Voda , Nr. 17",
+            "street": "Strada Roman Voda",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "79",
+            "name": "scoala gimnaziala ”Calistrat Hogas”",
+            "adress": "Loc. ROMAN,  Strada Mihai Viteazu , Nr. 15",
+            "street": "Strada Anton Pann",
+            "nr": "nr. -  bl. 26, bl. 28, bl. 30, bl. 32, bl. 34, bl. 36, bl. 39, bl. 28A, bl. 30A, bl. 38A, bl. 38B#"
+        },
+        {
+            "osv": "79",
+            "name": "scoala gimnaziala ”Calistrat Hogas”",
+            "adress": "Loc. ROMAN,  Strada Mihai Viteazu , Nr. 16",
+            "street": "Strada Chimiei",
+            "nr": "toate numerele din intervalul nr. 1 -99#"
+        },
+        {
+            "osv": "79",
+            "name": "scoala gimnaziala ”Calistrat Hogas”",
+            "adress": "Loc. ROMAN,  Strada Mihai Viteazu , Nr. 17",
+            "street": "Strada Martir Closca",
+            "nr": "numere impare nr. 1 -47#"
+        },
+        {
+            "osv": "79",
+            "name": "scoala gimnaziala ”Calistrat Hogas”",
+            "adress": "Loc. ROMAN,  Strada Mihai Viteazu , Nr. 18",
+            "street": "Strada Mihai Viteazu",
+            "nr": "numere impare nr. 7 -11# nr. -  bl. 1, bl. 2, bl. 3, bl. 11#"
+        },
+        {
+            "osv": "79",
+            "name": "scoala gimnaziala ”Calistrat Hogas”",
+            "adress": "Loc. ROMAN,  Strada Mihai Viteazu , Nr. 19",
+            "street": "Aleea Revolutiei",
+            "nr": "nr. -  bl. 9#"
+        },
+        {
+            "osv": "79",
+            "name": "scoala gimnaziala ”Calistrat Hogas”",
+            "adress": "Loc. ROMAN,  Strada Mihai Viteazu , Nr. 20",
+            "street": "Aleea Revolutiei",
+            "nr": "nr. -  bl. 9#"
+        },
+        {
+            "osv": "80",
+            "name": "scoala gimnaziala ”Calistrat Hogas”",
+            "adress": "Loc. ROMAN,  Strada Mihai Viteazu , Nr. 15",
+            "street": "Strada Mihai Viteazu",
+            "nr": "numere impare nr. 13 -13B# numere pare nr. 2 -10B# nr. -  bl. 10, bl. 13, bl. 2A, bl. 2B, bl. 10A, bl. 10B, bl. 10C, bl. 13A, bl. 13B#"
+        },
+        {
+            "osv": "80",
+            "name": "scoala gimnaziala ”Calistrat Hogas”",
+            "adress": "Loc. ROMAN,  Strada Mihai Viteazu , Nr. 16",
+            "street": "Strada Tirului",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "81",
+            "name": "scoala gimnaziala ”Calistrat Hogas”",
+            "adress": "Loc. ROMAN,  Strada Mihai Viteazu , Nr. 15",
+            "street": "Aleea Revolutiei",
+            "nr": "nr. -  bl. 4, bl. 5, bl. 6, bl. 7, bl. 8, bl. 11, bl. 13, bl. 15, bl. 17, bl. 19, bl. 7B, bl. 10C, bl. 11A, bl. 11B, bl. 13A, bl. 13B, bl. 15A, bl. 15B#"
+        },
+        {
+            "osv": "81",
+            "name": "scoala gimnaziala ”Calistrat Hogas”",
+            "adress": "Loc. ROMAN,  Strada Mihai Viteazu , Nr. 16",
+            "street": "Aleea Revolutiei",
+            "nr": "nr. -  bl. 15#"
+        },
+        {
+            "osv": "82",
+            "name": "Centrul de permanenta de la Dispensarul medical nr. 6",
+            "adress": "Loc. ROMAN,  Strada Anton Pann , Nr. 20",
+            "street": "Aleea Liliacului",
+            "nr": "nr. -  bl. 1, bl. 2, bl. 3, bl. 4#"
+        },
+        {
+            "osv": "82",
+            "name": "Centrul de permanenta de la Dispensarul medical nr. 7",
+            "adress": "Loc. ROMAN,  Strada Anton Pann , Nr. 21",
+            "street": "Aleea Revolutiei",
+            "nr": "nr. -  bl. 1, bl. 2, bl. 3, bl. 2A#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 64",
+            "street": "Strada 13 Septembrie",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 65",
+            "street": "Strada 8 Martie",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 66",
+            "street": "Strada Alexandru Zirra",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 67",
+            "street": "Aleea Iasomiei",
+            "nr": "toate numerele din intervalul nr. 1 -100# nr. -  bl. 5, bl. 6#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 68",
+            "street": "Strada Ioan Nanu ",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 69",
+            "street": "Aleea Liliacului",
+            "nr": "nr. -  bl. 5, bl. 6, bl. 7, bl. 9, bl. 11, bl. 11B#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 70",
+            "street": "Strada Ioan Nanu",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 71",
+            "street": "Strada Mihai Viteazu",
+            "nr": "numere impare nr. 15 -199# numere pare nr. 12 -200#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 72",
+            "street": "Strada Muncii",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 73",
+            "street": "Aleea Revolutiei",
+            "nr": "numere impare nr. 21 -199# numere pare nr. 18 -200#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 74",
+            "street": "Strada Revolutiei",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 75",
+            "street": "Aleea Revolutiei",
+            "nr": "numere impare nr. 21 -199# numere pare nr. 18 -200#"
+        },
+        {
+            "osv": "83",
+            "name": "Agentia pentru Protectia Mediului",
+            "adress": "Loc. ROMAN,  Aleea Revolutiei (Aleea Scinteii) , Nr. bl. 17, sc. D, ap. 76",
+            "street": "Strada Alexandru Zirra",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 4",
+            "street": "Strada Alexandru Epure",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 5",
+            "street": "Strada Cezar Petrescu ",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 6",
+            "street": "Strada Ecaterina Teodoroiu",
+            "nr": "numere impare nr. 35 -299# numere pare nr. 38 -300#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 7",
+            "street": "Strada Gheorghe Doja",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 8",
+            "street": "Fundatura Lacramioarelor",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 9",
+            "street": "Strada Maramures",
+            "nr": "numere impare nr. 1 -65# numere pare nr. 2 -48#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 10",
+            "street": "Strada Martir Closca",
+            "nr": "numere impare nr. 49 -151# numere pare nr. 2 -84A#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 11",
+            "street": "Aleea Mihail Zirra",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 12",
+            "street": "Strada Mihail Zirra",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 13",
+            "street": "Strada Olteniei",
+            "nr": "numere impare nr. 1 -53# numere pare nr. 2 -46#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 14",
+            "street": "Strada Cezar Petrescu",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 15",
+            "street": "Strada Primaverii",
+            "nr": "toate numerele din intervalul nr. 1 -300#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 16",
+            "street": "Bulevardul Republicii",
+            "nr": "numere impare nr. 41 -75#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 17",
+            "street": "Strada Siretului",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 18",
+            "street": "Strada Spiru Haret",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 19",
+            "street": "Strada Stelian Toma",
+            "nr": "numere impare nr. 1 -75# numere pare nr. 2 -52#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 20",
+            "street": "Strada Vasile Gheorghe Mortun",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "84",
+            "name": "Gradinita de copii nr. 6 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Primaverii , Nr. 21",
+            "street": "Fundatura Viorelelor",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "85",
+            "name": "Liceul Tehnologic „Vasile Sav”",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 46",
+            "street": "Strada Anton Pann",
+            "nr": "nr. -  bl. 1, bl. 2, bl. 5, bl. 6, bl. 9, bl. 10, bl. 11, bl. 12, bl. 13, bl. 14, bl. 15, bl. 16, bl. 17, bl. 18, bl. 19, bl. 21, bl. 22#"
+        },
+        {
+            "osv": "85",
+            "name": "Liceul Tehnologic „Vasile Sav”",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 47",
+            "street": "Bulevardul Republicii",
+            "nr": "numere impare nr. 25A -39# numere pare nr. 16 -44# nr. -  bl. 36, bl. 38, bl. VL-36, bl. VL-38, bl. VL-42, bl. Vila 36, bl. Vila 37#"
+        },
+        {
+            "osv": "85",
+            "name": "Liceul Tehnologic „Vasile Sav”",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 48",
+            "street": "Strada Scuarul Republicii",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "85",
+            "name": "Liceul Tehnologic „Vasile Sav”",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 49",
+            "street": "Strada Walter Maracineanu",
+            "nr": "numere impare nr. 9 -99# numere pare nr. 8 -100#"
+        },
+        {
+            "osv": "85",
+            "name": "Liceul Tehnologic „Vasile Sav”",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 50",
+            "street": "Strada Ion Creanga",
+            "nr": "numere impare nr. 1 -99# nr. -  bl. 4, bl. 7, bl. 8, bl. 10#"
+        },
+        {
+            "osv": "85",
+            "name": "Liceul Tehnologic „Vasile Sav”",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 51",
+            "street": "Bulevardul Republicii",
+            "nr": "nr. -  bl. 52, bl. 54, bl. 56, bl. 58#"
+        },
+        {
+            "osv": "85",
+            "name": "Liceul Tehnologic „Vasile Sav”",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 52",
+            "street": "Strada Tudor Vladimirescu",
+            "nr": "nr. -  bl. 15, bl. 17, bl. 13A, bl. 13B#"
+        },
+        {
+            "osv": "87",
+            "name": "Circumscriptia sanitar veterinara",
+            "adress": "Loc. ROMAN,  Strada Banatului , Nr. 2",
+            "street": "Strada Maramures",
+            "nr": "numere impare nr. 67 -299# numere pare nr. 50 -300#"
+        },
+        {
+            "osv": "87",
+            "name": "Circumscriptia sanitar veterinara",
+            "adress": "Loc. ROMAN,  Strada Banatului , Nr. 3",
+            "street": "Strada Martir Closca",
+            "nr": "numere impare nr. 153 -399# numere pare nr. 86 -300#"
+        },
+        {
+            "osv": "87",
+            "name": "Circumscriptia sanitar veterinara",
+            "adress": "Loc. ROMAN,  Strada Banatului , Nr. 4",
+            "street": "Strada Noua",
+            "nr": "toate numerele din intervalul nr. 0 -400#"
+        },
+        {
+            "osv": "87",
+            "name": "Circumscriptia sanitar veterinara",
+            "adress": "Loc. ROMAN,  Strada Banatului , Nr. 5",
+            "street": "Strada Olteniei",
+            "nr": "numere impare nr. 55 -399# numere pare nr. 48 -300#"
+        },
+        {
+            "osv": "87",
+            "name": "Circumscriptia sanitar veterinara",
+            "adress": "Loc. ROMAN,  Strada Banatului , Nr. 6",
+            "street": "Strada Pacii",
+            "nr": "numere impare nr. 39 -299# numere pare nr. 34 -300#"
+        },
+        {
+            "osv": "87",
+            "name": "Circumscriptia sanitar veterinara",
+            "adress": "Loc. ROMAN,  Strada Banatului , Nr. 7",
+            "street": "Strada Stelian Toma",
+            "nr": "numere impare nr. 77 -299# numere pare nr. 54 -300#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 183",
+            "street": "Strada Ciocarliei ",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 184",
+            "street": "Fundatura Ciocirliei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 185",
+            "street": "Strada Cocorului",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 186",
+            "street": "Strada Cornului",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 187",
+            "street": "Strada Dragos Bogdan",
+            "nr": "numere impare nr. 127 -181# numere pare nr. 132 -260#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 188",
+            "street": "Strada Islazului",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 189",
+            "street": "Fundatura Narciselor",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 190",
+            "street": "Strada Narciselor",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 191",
+            "street": "Strada Perisorului",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 192",
+            "street": "Strada Progresului",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 193",
+            "street": "Fundatura Tinosului",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 194",
+            "street": "Strada Tinosului",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 195",
+            "street": "Strada Visinilor",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "88",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 196",
+            "street": "Strada Zimbrului",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 183",
+            "street": "Fundatura Canepei ",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 184",
+            "street": "Strada Caramidariei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 185",
+            "street": "Fundatura Canepei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 186",
+            "street": "Strada Cucutei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 187",
+            "street": "Strada Dragos Bogdan",
+            "nr": "numere impare nr. 183 -399# numere pare nr. 262 -400#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 188",
+            "street": "Strada Lupeni",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 189",
+            "street": "Strada Marului",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 190",
+            "street": "Strada Ocnitei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 191",
+            "street": "Strada Pescarilor",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 192",
+            "street": "Strada Prundului",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 193",
+            "street": "Fundatura Salciei",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 194",
+            "street": "Strada Salciei",
+            "nr": "toate numerele din intervalul nr. 1 -300#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 195",
+            "street": "Trecatoare Salciei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 196",
+            "street": "Strada Sarata",
+            "nr": "toate numerele din intervalul nr. 1 -150#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 197",
+            "street": "Fundatura Zambilelor",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 198",
+            "street": "Strada Zambilelor",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 199",
+            "street": "Fundatura Zebrei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "89",
+            "name": "scoala gimnaziala ”Carol I”",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 200",
+            "street": "Strada Zebrei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "90",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp A",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 91",
+            "street": "Strada Gloriei",
+            "nr": "numere impare nr. 1 -49# nr. -  bl. 7, bl. 9, bl. 13, bl. 17, bl. 17A#"
+        },
+        {
+            "osv": "90",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp A",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 92",
+            "street": "Fundatura Pacii",
+            "nr": "nr. -  bl. 1, bl. 2, bl. 3, bl. 4, bl. 5, bl. 7, bl. 9, bl. 11, bl. 13, bl. 2A#"
+        },
+        {
+            "osv": "90",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp A",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 93",
+            "street": "Strada Pacii",
+            "nr": "numere impare nr. 1 -37# numere pare nr. 2 -32# nr. -  bl. 1, bl. 3#"
+        },
+        {
+            "osv": "90",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp A",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 94",
+            "street": "Strada Smirodava",
+            "nr": "numere impare nr. 37 -99# nr. -  bl. 31, bl. 33, bl. 35, bl. 37#"
+        },
+        {
+            "osv": "91",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp A",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 91",
+            "street": "Strada Dragos Bogdan",
+            "nr": "numere impare nr. 61 -125#"
+        },
+        {
+            "osv": "91",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp A",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 92",
+            "street": "Bulevardul Republicii",
+            "nr": "nr. -  bl. 72, bl. 74#"
+        },
+        {
+            "osv": "91",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp A",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 93",
+            "street": "Strada Smirodava",
+            "nr": "numere pare nr. 12 -100# nr. -  bl. 16, bl. 18, bl. 24, bl. 30, bl. 36, bl. 38, bl. 39, bl. 40, bl. 41, bl. 43, bl. 18B, bl. 36A#"
+        },
+        {
+            "osv": "91",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp A",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 94",
+            "street": "Strada Vasile Conta",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "92",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 91",
+            "street": "Strada Alba Iulia",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "92",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 92",
+            "street": "Strada Banatului",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "92",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 93",
+            "street": "Fundatura G-ral Eremia Grigorescu",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "92",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 94",
+            "street": "Strada G-ral Eremia Grigorescu",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "92",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 95",
+            "street": "Bulevardul Republicii",
+            "nr": "numere impare nr. 77 -199#"
+        },
+        {
+            "osv": "92",
+            "name": "scoala de arta ”Sergiu Celibidache” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 96",
+            "street": "Strada Smirodava",
+            "nr": "nr. -  bl. 23, bl. 25, bl. 27, bl. 29, bl. 54, bl. 56, bl. 58, bl. 23A#"
+        },
+        {
+            "osv": "93",
+            "name": "Gradinita de copii nr. 4 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Ecaterina Teodoroiu , Nr. 4",
+            "street": "Strada Ecaterina Teodoroiu",
+            "nr": "numere pare nr. 2 -36# nr. -  bl. 1, bl. 2, bl. 3, bl. 4, bl. 5, bl. 6, bl. 7, bl. 2A, bl. 4A, bl. 4B, bl. 5A, bl. 6A#"
+        },
+        {
+            "osv": "93",
+            "name": "Gradinita de copii nr. 4 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Ecaterina Teodoroiu , Nr. 5",
+            "street": "Strada Gloriei",
+            "nr": "nr. -  bl. 10, bl. 12, bl. 14, bl. 2A#"
+        },
+        {
+            "osv": "93",
+            "name": "Gradinita de copii nr. 4 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Ecaterina Teodoroiu , Nr. 6",
+            "street": "Strada Smirodava",
+            "nr": "numere impare nr. 17 -35# nr. -  bl. 15, bl. 21, bl. 21A#"
+        },
+        {
+            "osv": "94",
+            "name": "Gradinita de copii nr. 5 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Ecaterina Teodoroiu , Nr. 1A",
+            "street": "Strada C. A. Rosetti",
+            "nr": "nr. -  bl. 10, bl. 12, bl. 10A#"
+        },
+        {
+            "osv": "94",
+            "name": "Gradinita de copii nr. 5 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Ecaterina Teodoroiu , Nr. 1A",
+            "street": "Strada Dragos Bogdan",
+            "nr": "numere impare nr. 39 -59# nr. -  bl. 3, bl. 5, bl. 7#"
+        },
+        {
+            "osv": "94",
+            "name": "Gradinita de copii nr. 5 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Ecaterina Teodoroiu , Nr. 1A",
+            "street": "Strada Smirodava",
+            "nr": "nr. -  bl. 4, bl. 6, bl. 8, bl. 10, bl. 10A#"
+        },
+        {
+            "osv": "94",
+            "name": "Gradinita de copii nr. 5 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Ecaterina Teodoroiu , Nr. 1A",
+            "street": "Strada Tineretului",
+            "nr": "numere pare nr. 6 -12#"
+        },
+        {
+            "osv": "95",
+            "name": "Cresa Smirodava",
+            "adress": "Loc. ROMAN,  Strada Smirodava , Nr. 28",
+            "street": "Strada Gloriei",
+            "nr": "numere pare nr. 2 -100# nr. -  bl. 2, bl. 3, bl. 4, bl. 5, bl. 6, bl. 8, bl. 11, bl. 15#"
+        },
+        {
+            "osv": "95",
+            "name": "Cresa Smirodava",
+            "adress": "Loc. ROMAN,  Strada Smirodava , Nr. 29",
+            "street": "Strada Smirodava",
+            "nr": "nr. -  bl. 14, bl. 20, bl. 22, bl. 42, bl. 44, bl. 46#"
+        },
+        {
+            "osv": "95",
+            "name": "Cresa Smirodava",
+            "adress": "Loc. ROMAN,  Strada Smirodava , Nr. 30",
+            "street": "Strada Tudor Vladimirescu",
+            "nr": "numere pare nr. 4 -48# nr. -  bl. 2, bl. 4, bl. 6, bl. 8, bl. 19#"
+        },
+        {
+            "osv": "96",
+            "name": "Gradinita de copii nr. 1 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Ion Creanga , Nr. 13",
+            "street": "Fundatura Amintirii",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "96",
+            "name": "Gradinita de copii nr. 1 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Ion Creanga , Nr. 14",
+            "street": "Strada Gloriei",
+            "nr": "nr. -  bl. 19, bl. 21#"
+        },
+        {
+            "osv": "96",
+            "name": "Gradinita de copii nr. 1 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Ion Creanga , Nr. 15",
+            "street": "Bulevardul Republicii",
+            "nr": "nr. -  bl. 60, bl. 62, bl. 64, bl. 66, bl. 68, bl. 70#"
+        },
+        {
+            "osv": "96",
+            "name": "Gradinita de copii nr. 1 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Ion Creanga , Nr. 16",
+            "street": "Strada Tudor Vladimirescu",
+            "nr": "numere impare nr. 21 -299# numere pare nr. 50 -200# nr. -  bl. 21, bl. 23#"
+        },
+        {
+            "osv": "97",
+            "name": "Gradinita de copii nr. 1 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Ion Creanga , Nr. 13",
+            "street": "Strada Ion Creanga",
+            "nr": "numere pare nr. 2 -100# nr. -  bl. 1, bl. 2, bl. 6, bl. 12, bl. 4A#"
+        },
+        {
+            "osv": "97",
+            "name": "Gradinita de copii nr. 1 cu program prelungit",
+            "adress": "Loc. ROMAN,  Strada Ion Creanga , Nr. 14",
+            "street": "Strada Tudor Vladimirescu",
+            "nr": "numere impare nr. 1 -13# nr. -  bl. 5, bl. 7, bl. 9, bl. 11, bl. 13#"
+        },
+        {
+            "osv": "98",
+            "name": "scoala gimnaziala ”Mihai Eminescu”",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 27",
+            "street": "Strada Constantin Dobrogeanu Gherea",
+            "nr": "numere impare nr. 43 -149# numere pare nr. 32 -150#"
+        },
+        {
+            "osv": "98",
+            "name": "scoala gimnaziala ”Mihai Eminescu”",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 28",
+            "street": "Aleea Dumbrava Rosie",
+            "nr": "toate numerele din intervalul nr. 1 -50# nr. -  bl. 1#"
+        },
+        {
+            "osv": "98",
+            "name": "scoala gimnaziala ”Mihai Eminescu”",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 29",
+            "street": "Strada Dumbrava Rosie",
+            "nr": "numere impare nr. 59 -149# numere pare nr. 24 -100#"
+        },
+        {
+            "osv": "98",
+            "name": "scoala gimnaziala ”Mihai Eminescu”",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 30",
+            "street": "Strada Ecaterina Teodoroiu",
+            "nr": "numere impare nr. 7A -29# nr. -  bl. 9, bl. 10, bl. 11, bl. 13, bl. 15, bl. 17#"
+        },
+        {
+            "osv": "98",
+            "name": "scoala gimnaziala ”Mihai Eminescu”",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 31",
+            "street": "Strada Mihail Eminescu",
+            "nr": "numere impare nr. 7 -99# numere pare nr. 6B -100# nr. -  bl. 6, bl. 7, bl. 8, bl. 9, bl. 10, bl. 11, bl. 6B, bl. 8A, bl. 10B#"
+        },
+        {
+            "osv": "98",
+            "name": "scoala gimnaziala ”Mihai Eminescu”",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 32",
+            "street": "Bulevardul Republicii",
+            "nr": "numere pare nr. 46 -50# nr. -  bl. 46, bl. 50#"
+        },
+        {
+            "osv": "98",
+            "name": "scoala gimnaziala ”Mihai Eminescu”",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 33",
+            "street": "Aleea Tudor Vladimirescu",
+            "nr": "nr. -  bl. 10#"
+        },
+        {
+            "osv": "99",
+            "name": "Colegiul Tehnic „Miron Costin”",
+            "adress": "Loc. ROMAN,  Strada Mihail Eminescu , Nr. 5-7",
+            "street": "Aleea Tudor Vladimirescu",
+            "nr": "toate numerele din intervalul nr. 1 -20# nr. -  bl. 1, bl. 2, bl. 3, bl. 4, bl. 5, bl. 6, bl. 7, bl. 8#"
+        },
+        {
+            "osv": "100",
+            "name": "Liceul cu Program Sportiv",
+            "adress": "Loc. ROMAN,  Strada Tineretului , Nr. 24",
+            "street": "Strada Mihail Eminescu",
+            "nr": "numere impare nr. 1 -5# numere pare nr. 2 -6A# nr. -  bl. 2, bl. 4, bl. 5, bl. 4A, bl. 4B, bl. 4C#"
+        },
+        {
+            "osv": "100",
+            "name": "Liceul cu Program Sportiv",
+            "adress": "Loc. ROMAN,  Strada Tineretului , Nr. 25",
+            "street": "Strada Smirodava",
+            "nr": "numere impare nr. 7 -15# nr. -  bl. 1, bl. 2, bl. 3, bl. 5, bl. 11, bl. 13#"
+        },
+        {
+            "osv": "100",
+            "name": "Liceul cu Program Sportiv",
+            "adress": "Loc. ROMAN,  Strada Tineretului , Nr. 26",
+            "street": "Strada Tineretului",
+            "nr": "numere pare nr. 14 -22#"
+        },
+        {
+            "osv": "101",
+            "name": "scoala gimnaziala ”Vasile Alecsandri” - local vechi",
+            "adress": "Loc. ROMAN,  Strada C. A. Rosetti , Nr. 8",
+            "street": "Strada Dragos Bogdan",
+            "nr": "numere impare nr. 1 -27# numere pare nr. 2 -14 C# nr. -  bl. 1A, bl. 1B#"
+        },
+        {
+            "osv": "101",
+            "name": "scoala gimnaziala ”Vasile Alecsandri” - local vechi",
+            "adress": "Loc. ROMAN,  Strada C. A. Rosetti , Nr. 9",
+            "street": "Bulevardul Roman Musat",
+            "nr": "nr. -  bl. 10, bl. 11, bl. 13, bl. 14#"
+        },
+        {
+            "osv": "101",
+            "name": "scoala gimnaziala ”Vasile Alecsandri” - local vechi",
+            "adress": "Loc. ROMAN,  Strada C. A. Rosetti , Nr. 10",
+            "street": "Bulevardul Roman Musat",
+            "nr": "nr. -  bl. 27, bl. 29, bl. 32, bl. 36#"
+        },
+        {
+            "osv": "101",
+            "name": "scoala gimnaziala ”Vasile Alecsandri” - local vechi",
+            "adress": "Loc. ROMAN,  Strada C. A. Rosetti , Nr. 11",
+            "street": "Strada Tineretului",
+            "nr": "nr. -  bl. 2, bl. 4, bl. 2A#"
+        },
+        {
+            "osv": "102",
+            "name": "scoala gimnaziala ”Vasile Alecsandri” - local nou",
+            "adress": "Loc. ROMAN,  Strada C. A. Rosetti , Nr. 8",
+            "street": "Strada Calistrat Hogas",
+            "nr": "nr. -  bl. 2#"
+        },
+        {
+            "osv": "102",
+            "name": "scoala gimnaziala ”Vasile Alecsandri” - local nou",
+            "adress": "Loc. ROMAN,  Strada C. A. Rosetti , Nr. 9",
+            "street": "Strada C. A. Rosetti",
+            "nr": "toate numerele din intervalul nr. 1 -5# nr. 7 -7# nr. 9 -49# nr. -  bl. 1, bl. 2, bl. 4, bl. 6, bl. 9, bl. 20, bl. 2A, bl. 9A, bl. 9B, bl. Vila 2# nr. 7  bl. VL-1, bl. Vila 1, bl. Vila 2, bl. Vila 3, bl. Vila 4#"
+        },
+        {
+            "osv": "102",
+            "name": "scoala gimnaziala ”Vasile Alecsandri” - local nou",
+            "adress": "Loc. ROMAN,  Strada C. A. Rosetti , Nr. 10",
+            "street": "Strada Calistrat Hogas",
+            "nr": "toate numerele din intervalul nr. 1 -99# nr. -  bl. 2#"
+        },
+        {
+            "osv": "102",
+            "name": "scoala gimnaziala ”Vasile Alecsandri” - local nou",
+            "adress": "Loc. ROMAN,  Strada C. A. Rosetti , Nr. 11",
+            "street": "Strada Tineretului",
+            "nr": "numere impare nr. 1 -11# nr. -  bl. 1#"
+        },
+        {
+            "osv": "102",
+            "name": "scoala gimnaziala ”Vasile Alecsandri” - local nou",
+            "adress": "Loc. ROMAN,  Strada C. A. Rosetti , Nr. 12",
+            "street": "Strada Veronica Micle",
+            "nr": "toate numerele din intervalul nr. 1 -99# nr. -  bl. 4, bl. 6, bl. 15#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 1",
+            "street": "Strada Albinelor",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 2",
+            "street": "Strada Bicaz",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 3",
+            "street": "Strada Bistritei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 4",
+            "street": "Strada Cerbului",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 5",
+            "street": "Strada Colectorului",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 6",
+            "street": "Fundatura Crangului",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 7",
+            "street": "Strada Dimitrie Cantemir",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 8",
+            "street": "Strada Dragos Bogdan",
+            "nr": "numere pare nr. 16 -130#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 9",
+            "street": "Aleea Florilor",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 10",
+            "street": "Aleea Grivitei",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 11",
+            "street": "Strada Grivitei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 12",
+            "street": "Strada Luceafarului",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 13",
+            "street": "Aleea Luncii",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 14",
+            "street": "Aleea Matei Millo",
+            "nr": "toate numerele din intervalul nr. 1 -60#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 15",
+            "street": "Strada Matei Millo",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 16",
+            "street": "Aleea Moldovei",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 17",
+            "street": "Strada Moldovei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 18",
+            "street": "Strada Panait Mosoiu",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 19",
+            "street": "Strada Plevnei",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 20",
+            "street": "Fundatura Renasterii",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 21",
+            "street": "Strada Renasterii",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 22",
+            "street": "Strada Slt. Fanel Ciupitu",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 23",
+            "street": "Strada Sold. Niculae Porojan",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 24",
+            "street": "Strada Traian",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 25",
+            "street": "Strada Vasile Alecsandri",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 26",
+            "street": "Aleea Vasile Lupu",
+            "nr": "toate numerele din intervalul nr. 1 -50# nr. -  bl. 1, bl. 2, bl. 4, bl. 6, bl. 8, bl. 10, bl. 12, bl. 14, bl. 16, bl. 18, bl. 20, bl. 22#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 27",
+            "street": "Strada Vasile Lupu",
+            "nr": "numere impare nr. 1 -199# numere pare nr. 8 -200#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 28",
+            "street": "Strada Victoriei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 29",
+            "street": "Strada Viitorului",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "103",
+            "name": "Centrul de ingrijire si asistenta batrani (Dispensar 7)",
+            "adress": "Loc. ROMAN,  Strada Dragos Bogdan , Nr. 30",
+            "street": "Strada Slt. Fanel Ciupitu",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "104",
+            "name": "Directia de Asistenta Sociala Roman",
+            "adress": "Loc. ROMAN,  Strada Alexandru cel Bun , Nr. 3",
+            "street": "Strada Alexandru cel Bun",
+            "nr": "nr. -  bl. 6, bl. 7#"
+        },
+        {
+            "osv": "104",
+            "name": "Directia de Asistenta Sociala Roman",
+            "adress": "Loc. ROMAN,  Strada Alexandru cel Bun , Nr. 4",
+            "street": "Bulevardul Roman Musat",
+            "nr": "nr. -  bl. 4, bl. 7, bl. 8, bl. 9#"
+        },
+        {
+            "osv": "104",
+            "name": "Directia de Asistenta Sociala Roman",
+            "adress": "Loc. ROMAN,  Strada Alexandru cel Bun , Nr. 5",
+            "street": "Bulevardul Roman Musat",
+            "nr": "nr. -  bl. 21, bl. 24, bl. 25, bl. 28#"
+        },
+        {
+            "osv": "104",
+            "name": "Directia de Asistenta Sociala Roman",
+            "adress": "Loc. ROMAN,  Strada Alexandru cel Bun , Nr. 6",
+            "street": "Strada Vasile Alecsandri",
+            "nr": "nr. -  bl. 1#"
+        },
+        {
+            "osv": "104",
+            "name": "Directia de Asistenta Sociala Roman",
+            "adress": "Loc. ROMAN,  Strada Alexandru cel Bun , Nr. 7",
+            "street": "Strada Vasile Lupu",
+            "nr": "numere pare nr. 0 -6#"
+        },
+        {
+            "osv": "105",
+            "name": "Liceul Teologic „Episcop Melchisedec”",
+            "adress": "Loc. ROMAN,  Strada Alexandru cel Bun , Nr. 2",
+            "street": "Bulevardul Roman Musat",
+            "nr": "nr. -  bl. 3, bl. 6, bl. 11, bl. 12, bl. 14, bl. 15, bl. 17#"
+        },
+        {
+            "osv": "105",
+            "name": "Liceul Teologic „Episcop Melchisedec”",
+            "adress": "Loc. ROMAN,  Strada Alexandru cel Bun , Nr. 3",
+            "street": "Bulevardul Roman Musat",
+            "nr": "nr. -  bl. 3#"
+        },
+        {
+            "osv": "105",
+            "name": "Liceul Teologic „Episcop Melchisedec”",
+            "adress": "Loc. ROMAN,  Strada Alexandru cel Bun , Nr. 4",
+            "street": "Fundatura Proletariatului",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "105",
+            "name": "Liceul Teologic „Episcop Melchisedec”",
+            "adress": "Loc. ROMAN,  Strada Alexandru cel Bun , Nr. 5",
+            "street": "Bulevardul Roman Musat",
+            "nr": "nr. -  bl. 1, bl. 2, bl. 3, bl. 4, bl. 5, bl. 6, bl. 7, bl. 8, bl. 9, bl. 10, bl. 11, bl. 12, bl. 13, bl. 14, bl. 15, bl. 16, bl. 17, bl. 18, bl. 19, bl. 20#"
+        },
+        {
+            "osv": "106",
+            "name": "scoala gimnaziala ”Roman Musat”",
+            "adress": "Loc. ROMAN,  Strada Victor Hugo , Nr. 9",
+            "street": "Strada Alexandru cel Bun",
+            "nr": "toate numerele din intervalul nr. 1 -100# nr. -  bl. 8, bl. 8A#"
+        },
+        {
+            "osv": "106",
+            "name": "scoala gimnaziala ”Roman Musat”",
+            "adress": "Loc. ROMAN,  Strada Victor Hugo , Nr. 10",
+            "street": "Strada Mica",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "106",
+            "name": "scoala gimnaziala ”Roman Musat”",
+            "adress": "Loc. ROMAN,  Strada Victor Hugo , Nr. 11",
+            "street": "Strada Sucedava",
+            "nr": "numere impare nr. 7 -7BIS# nr. -  bl. 1, bl. 2, bl. 3, bl. 4, bl. 5, bl. 7, bl. 8, bl. 10, bl. 1B, bl. 30, bl. 7A#"
+        },
+        {
+            "osv": "107",
+            "name": "scoala gimnaziala ”Roman Musat”",
+            "adress": "Loc. ROMAN,  Strada Victor Hugo , Nr. 9",
+            "street": "Strada Panait Donici",
+            "nr": "toate numerele din intervalul nr. 1 -50# nr. -  bl. 2, bl. 3, bl. 5, bl. 6, bl. 8, bl. 10#"
+        },
+        {
+            "osv": "107",
+            "name": "scoala gimnaziala ”Roman Musat”",
+            "adress": "Loc. ROMAN,  Strada Victor Hugo , Nr. 10",
+            "street": "Strada Stejarilor",
+            "nr": "nr. -  bl. 1, bl. 2#"
+        },
+        {
+            "osv": "107",
+            "name": "scoala gimnaziala ”Roman Musat”",
+            "adress": "Loc. ROMAN,  Strada Victor Hugo , Nr. 11",
+            "street": "Strada Trandafirilor",
+            "nr": "nr. -  bl. 1, bl. 2, bl. 3#"
+        },
+        {
+            "osv": "108",
+            "name": "Complex Servicii Sociale Integrate",
+            "adress": "Loc. ROMAN,  Strada Sucedava , Nr. 3",
+            "street": "Strada Bucegi",
+            "nr": "nr. -  bl. 2, bl. 4#"
+        },
+        {
+            "osv": "108",
+            "name": "Complex Servicii Sociale Integrate",
+            "adress": "Loc. ROMAN,  Strada Sucedava , Nr. 4",
+            "street": "Strada Decebal",
+            "nr": "nr. -  bl. 1, bl. 2#"
+        },
+        {
+            "osv": "108",
+            "name": "Complex Servicii Sociale Integrate",
+            "adress": "Loc. ROMAN,  Strada Sucedava , Nr. 5",
+            "street": "Strada Victor Hugo",
+            "nr": "toate numerele din intervalul nr. 1 -50# nr. -  bl. 1, bl. 2, bl. 3, bl. 4, bl. 5, bl. 6, bl. 7, bl. 1A#"
+        },
+        {
+            "osv": "108",
+            "name": "Complex Servicii Sociale Integrate",
+            "adress": "Loc. ROMAN,  Strada Sucedava , Nr. 6",
+            "street": "Strada Zavoi",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "109",
+            "name": "Gradinita de copii nr. 5 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Ion Ionescu de la Brad , Nr. 5",
+            "street": "Strada Aprodul Arbore",
+            "nr": "numere impare nr. 1 -13# numere pare nr. 2 -34# nr. -  bl. 1, bl. 3, bl. 5, bl. 7, bl. 9#"
+        },
+        {
+            "osv": "109",
+            "name": "Gradinita de copii nr. 5 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Ion Ionescu de la Brad , Nr. 6",
+            "street": "Strada Bradului",
+            "nr": "toate numerele din intervalul nr. 1 -100# nr. -  bl. 1, bl. 3, bl. 4#"
+        },
+        {
+            "osv": "109",
+            "name": "Gradinita de copii nr. 5 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Ion Ionescu de la Brad , Nr. 7",
+            "street": "Strada Ion Ionescu de la Brad",
+            "nr": "toate numerele din intervalul nr. 1 -50# nr. -  bl. 1, bl. 3, bl. 7#"
+        },
+        {
+            "osv": "109",
+            "name": "Gradinita de copii nr. 5 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Ion Ionescu de la Brad , Nr. 8",
+            "street": "Strada Principatele Unite",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "109",
+            "name": "Gradinita de copii nr. 5 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Ion Ionescu de la Brad , Nr. 9",
+            "street": "Strada Sucedava",
+            "nr": "numere pare nr. 2 -106# nr. -  bl. 34, bl. 36, bl. 38, bl. 40#"
+        },
+        {
+            "osv": "109",
+            "name": "Gradinita de copii nr. 5 cu program normal",
+            "adress": "Loc. ROMAN,  Strada Ion Ionescu de la Brad , Nr. 10",
+            "street": "Strada Vlad tepes",
+            "nr": "toate numerele din intervalul nr. 1 -50# nr. -  bl. 1, bl. 1A#"
+        },
+        {
+            "osv": "110",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 1",
+            "street": "Strada Aprodul Arbore",
+            "nr": "numere impare nr. 15 -149# numere pare nr. 36 -150#"
+        },
+        {
+            "osv": "110",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 2",
+            "street": "Strada Aprodul Purice",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "110",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 3",
+            "street": "Strada Mihail Jora",
+            "nr": "toate numerele din intervalul nr. 1 -99#"
+        },
+        {
+            "osv": "110",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 4",
+            "street": "Strada Miron Costin",
+            "nr": "numere impare nr. 1 -33B# numere pare nr. 2 -8BIS# nr. -  bl. 1#"
+        },
+        {
+            "osv": "110",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 5",
+            "street": "Strada Petrodava",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "110",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 6",
+            "street": "Strada Sucedava",
+            "nr": "numere impare nr. 9 -131# nr. -  bl. 9, bl. 11, bl. 13, bl. 15, bl. 17, bl. 19, bl. 21, bl. 42, bl. 44, bl. 46#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 1",
+            "street": "Strada Avram Iancu",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 2",
+            "street": "Strada Biruintei",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 3",
+            "street": "Fundatura Bucovinei",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 4",
+            "street": "Strada Bucovinei",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 5",
+            "street": "Strada Castanilor",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 6",
+            "street": "Fundatura Crisan",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 7",
+            "street": "Strada Dr. Ghelerter",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 8",
+            "street": "Strada Ion Luca Caragiale",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 9",
+            "street": "Strada Izbinzii",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 10",
+            "street": "Trecerea Izvor",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 11",
+            "street": "Strada Miron Costin",
+            "nr": "numere impare nr. 35 -199# numere pare nr. 10 -200# nr. -  bl. 2, bl. 5#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 12",
+            "street": "Bulevardul Nicolae Balcescu",
+            "nr": "toate numerele din intervalul nr. 1 -299# nr. -  bl. 2#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 13",
+            "street": "Fundatura Nicolae Balcescu",
+            "nr": "toate numerele din intervalul nr. 1 -200#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 14",
+            "street": "Strada Nicolae Balcescu",
+            "nr": "toate numerele din intervalul nr. 0 -210#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 15",
+            "street": "Fundatura Petru Rares",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "111",
+            "name": "scoala gimnaziala ”Costache Negri” - local nou",
+            "adress": "Loc. ROMAN,  Strada Petru Rares , Nr. 16",
+            "street": "Strada Petru Rares",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "112",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp A",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 1/3",
+            "street": "Strada 1 Mai",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "112",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp A",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 1/4",
+            "street": "Strada Dumbrava Rosie",
+            "nr": "numere impare nr. 1 -29# numere pare nr. 2 -22BIS# nr. -  bl. 2, bl. 4, bl. 6, bl. 8, bl. 10, bl. 6A#"
+        },
+        {
+            "osv": "112",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp A",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 1/5",
+            "street": "Strada Paltinis",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "112",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp A",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 1/6",
+            "street": "Strada Smirdan",
+            "nr": "toate numerele din intervalul nr. 1 -50# nr. -  bl. 4#"
+        },
+        {
+            "osv": "112",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp A",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 1/7",
+            "street": "Strada stefan cel Mare",
+            "nr": "numere impare nr. 179 -261# numere pare nr. 180 -244#"
+        },
+        {
+            "osv": "112",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp A",
+            "adress": "Loc. ROMAN,  Bulevardul Republicii , Nr. 1/8",
+            "street": "Strada Sucedava",
+            "nr": "numere impare nr. 133 -351# numere pare nr. 122 -300#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 82",
+            "street": "Strada Eternitatii",
+            "nr": "toate numerele din intervalul nr. 1 -40#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 83",
+            "street": "Strada Aron Petru",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 84",
+            "street": "Strada Cap. Preda",
+            "nr": "toate numerele din intervalul nr. 1 -25#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 85",
+            "street": "Strada Costache Negri",
+            "nr": "toate numerele din intervalul nr. 1 -100#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 86",
+            "street": "Strada Cuza Voda",
+            "nr": "numere impare nr. 21A -149# numere pare nr. 40 -150# nr. -  bl. 21, bl. 23, bl. 26#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 87",
+            "street": "Fundatura Duzilor",
+            "nr": "nr. -  bl. 1, bl. 3#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 88",
+            "street": "Strada Mihail Kogalniceanu",
+            "nr": "toate numerele din intervalul nr. 1 -50# nr. -  bl. 1, bl. 2, bl. 3#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 89",
+            "street": "Bulevardul Roman Musat",
+            "nr": "nr. -  bl. 7, bl. 9, bl. 11, bl. 13, bl. 15#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 90",
+            "street": "Bulevardul Republicii",
+            "nr": "numere impare nr. 1 -25# numere pare nr. 2 -14# nr. -  bl. 14, bl. VL-1, bl. VL-4, bl. VILA 1, bl. VILA 2, bl. VILA 3, bl. Vila 4, bl. VILA 5#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 91",
+            "street": "Strada Rodnei",
+            "nr": "toate numerele din intervalul nr. 1 -50#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 92",
+            "street": "Bulevardul Roman Musat",
+            "nr": "nr. -  bl. 37, bl. 39, bl. 41, bl. 43, bl. 45#"
+        },
+        {
+            "osv": "113",
+            "name": "Colegiul Tehnic „Petru Poni” - Corp B",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 93",
+            "street": "Strada Walter Maracineanu",
+            "nr": "numere impare nr. 1 -7# numere pare nr. 2 -6#"
+        },
+        {
+            "osv": "114",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza”(scoala nr. 5)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 22",
+            "street": "Strada Constantin Dobrogeanu Gherea",
+            "nr": "numere impare nr. 1 -31# numere pare nr. 2 -20# nr. -  bl. 2, bl. 4, bl. 5, bl. 6, bl. 8, bl. 10, bl. 10A#"
+        },
+        {
+            "osv": "114",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza”(scoala nr. 5)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 23",
+            "street": "Strada Cuza Voda",
+            "nr": "numere pare nr. 22 -38# nr. -  bl. 15, bl. 17#"
+        },
+        {
+            "osv": "114",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza”(scoala nr. 5)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 24",
+            "street": "Strada Doamna Elena",
+            "nr": "toate numerele din intervalul nr. 1 -99#"
+        },
+        {
+            "osv": "114",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza”(scoala nr. 5)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 25",
+            "street": "Fundatura Dr. Iacob Felix",
+            "nr": "nr. -  bl. 1, bl. 2#"
+        },
+        {
+            "osv": "114",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza”(scoala nr. 5)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 26",
+            "street": "Strada stefan cel Mare",
+            "nr": "nr. -  bl. 15, bl. 177#"
+        },
+        {
+            "osv": "115",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza”(scoala nr. 5)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 22",
+            "street": "Strada Cuza Voda",
+            "nr": "numere pare nr. 2 -20# nr. -  bl. 4, bl. 5, bl. 6, bl. 8, bl. 10, bl. 6A#"
+        },
+        {
+            "osv": "115",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza”(scoala nr. 5)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 23",
+            "street": "Strada Libertatii",
+            "nr": "toate numerele din intervalul nr. 2 -100# nr. -  bl. 8, bl. 10, bl. 12, bl. 14#"
+        },
+        {
+            "osv": "115",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza”(scoala nr. 5)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 24",
+            "street": "Strada Oituz",
+            "nr": "toate numerele din intervalul nr. 1 -100# nr. -  bl. 2, bl. 8#"
+        },
+        {
+            "osv": "116",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza” Corp C(Gradinita de copii nr. 3 cu program prelungit)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 22",
+            "street": "Strada stefan cel Mare",
+            "nr": "numere impare nr. 1 -123# numere pare nr. 2 -166# nr. -  bl. 1, bl. 2, bl. 3, bl. 4, bl. 5, bl. 6, bl. 7, bl. 8, bl. 9, bl. 10, bl. 11, bl. 13#"
+        },
+        {
+            "osv": "117",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza” Corp B(Gradinita de copii nr. 12 cu program normal)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 9 bis",
+            "street": "Fundatura Crizantemelor",
+            "nr": "nr. -  bl. 1, bl. 2, bl. 3, bl. 4, bl. 1A, bl. 2A#"
+        },
+        {
+            "osv": "117",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza” Corp B(Gradinita de copii nr. 12 cu program normal)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 9 bis",
+            "street": "Strada Cuza Voda",
+            "nr": "nr. -  bl. 7, bl. 9, bl. 11, bl. 13#"
+        },
+        {
+            "osv": "117",
+            "name": "scoala gimnaziala „Alexandru Ioan Cuza” Corp B(Gradinita de copii nr. 12 cu program normal)",
+            "adress": "Loc. ROMAN,  Strada Cuza Voda , Nr. 9 bis",
+            "street": "Strada Libertatii",
+            "nr": "nr. -  bl. 1, bl. 3, bl. 6#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 9",
+            "street": "Strada Energiei",
+            "nr": "toate numerele din intervalul nr. 1 -999# bl. 1, bl. 2, bl. 4, bl. 5, bl. 6, bl. VL-1, bl. Vila 1, bl. Vila 2#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 10",
+            "street": "Strada Fabricii",
+            "nr": "toate numerele din intervalul nr. 1 -999# nr. -  bl. 1, bl. 2, bl. 3, bl. 4#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 11",
+            "street": "Strada Industriei",
+            "nr": "toate numerele din intervalul nr. 1 -999#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 12",
+            "street": "Strada Magurei",
+            "nr": "toate numerele din intervalul nr. 1 -999#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 13",
+            "street": "Strada Nordului",
+            "nr": "toate numerele din intervalul nr. 1 -999#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 14",
+            "street": "Strada Ogoarelor",
+            "nr": "toate numerele din intervalul nr. 1 -999#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 15",
+            "street": "Strada Plopilor",
+            "nr": "toate numerele din intervalul nr. 1 -999#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 16",
+            "street": "Strada Privighetorilor",
+            "nr": "toate numerele din intervalul nr. 1 -999# nr. -  bl. 1, bl. 2#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 17",
+            "street": "Strada Prof. Dumitru Martinas",
+            "nr": "toate numerele din intervalul nr. 0 -999#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 18",
+            "street": "Strada Randunelelor",
+            "nr": "toate numerele din intervalul nr. 1 -999#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 19",
+            "street": "soseaua Roman-Iasi",
+            "nr": "toate numerele din intervalul nr. 0 -999#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 20",
+            "street": "Strada stefan cel Mare",
+            "nr": "numere impare nr. 263 -501# numere pare nr. 246 -500#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 21",
+            "street": "Strada Teiului",
+            "nr": "toate numerele din intervalul nr. 0 -999#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 22",
+            "street": "Strada Transilvaniei",
+            "nr": "toate numerele din intervalul nr. 1 -999#"
+        },
+        {
+            "osv": "118",
+            "name": "Colegiul Tehnic „Danubiana”",
+            "adress": "Loc. ROMAN,  Strada Energiei , Nr. 23",
+            "street": "Strada Turturelelor",
+            "nr": "toate numerele din intervalul nr. 0 -999#"
+        }
+    ]
+}
